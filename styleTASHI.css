@@ -1,0 +1,38 @@
+.mother {
+    font-size: 23px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font: bold;
+}
+
+.image {
+    margin: 30px;
+    width: 40%;
+    
+}
+
+.heading {
+    font-style: inherit;
+    color: darkslateblue;
+    font-size: 60px;
+    text-align: center;
+}
+
+.intro {
+    font-display:initial;
+    font-style: italic;
+    color: cornflowerblue;
+}
+
+.try {
+    color: rebeccapurple;
+}
+.try2 {
+    color: rebeccapurple;
+}
+.try3 {
+    color: rebeccapurple;
+}
+.try4 {
+    color: rebeccapurple;
+}
